@@ -4,3 +4,6 @@ return x * y
 def merhaba():
 print ("hello")
 derfghjkjnlj
+
+
+deneme1
