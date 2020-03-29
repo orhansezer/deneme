@@ -3,7 +3,9 @@ return x * y
 
 def merhaba():
 print ("hello")
-derfghjkjnlj
 
 
-deneme1
+3. cümle 
+
+
+4. cümle
